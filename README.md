@@ -1,4 +1,4 @@
-# Diseases_Prediction_WebApp
+# Diseases Prediction App
 ## Diabetic And Heart Disease Prediction System WebApp Using Machine Learning [Link](https://isinghabhishek-diseases-prediction-ml-model-mdps-public-pyigt8.streamlitapp.com/) 
 
 - An analysis project for predicting the Diabetic and Heart Disease by the help of the trained Machine Learning Model. 
