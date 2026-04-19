@@ -1,11 +1,59 @@
-# Diseases Prediction App
-## Diabetic And Heart Disease Prediction System WebApp Using Machine Learning [Link](https://isinghabhishek-diseases-prediction-ml-model-mdps-public-pyigt8.streamlitapp.com/) 
+<br />
 
-- An analysis project for predicting the Diabetic and Heart Disease by the help of the trained Machine Learning Model. 
-- That takes different inputs from the user and the trained model predict the result on the basic of the data. 
-- It involves building a Support Vector Machine model for the Diabetic Prediction, and we use Logistic Regression model for Heart Disease prediction. 
-- Achieved accuracy of 80.55% to predict Diabetic and 82.48% accuracy for Heart Disease ML model.
-- Machine Learning Using Python, Spyder, Github and Streamlit for Deployment of Web App.
+# 🏥 Diseases Prediction ML Model
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+> A Machine Learning web app that predicts Diabetic and Heart Disease using trained ML models deployed via Streamlit.
+
+### 📁 Project Structure
+
+```
+diseases-prediction-ml-model/
+├── mdps_public.py          # Main Streamlit app
+├── diabetic_model.sav      # Trained SVM model for diabetes
+├── heart_disease_model.sav # Trained Logistic Regression model
+└── requirements.txt        # Python dependencies
+```
+
+### 🤖 ML Models
+
+| Disease | Algorithm | Accuracy |
+|---|---|---|
+| Diabetic Prediction | Support Vector Machine (SVM) | **80.55%** |
+| Heart Disease Prediction | Logistic Regression | **82.48%** |
+
+### 🚀 Getting Started
+
+```bash
+git clone https://github.com/isinghabhishek/diseases-prediction-ml-model.git
+cd diseases-prediction-ml-model
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run mdps_public.py
+```
+
+### 📦 Dependencies
+
+```
+numpy==1.21.4
+streamlit==1.2.0
+streamlit-option-menu==0.3.2
+scikit-learn==1.0.1
+pickle-mixin==1.0.2
+```
+
+### ✅ CI — Lint & Syntax Check
+
+GitHub Actions runs `flake8` linting and `py_compile` syntax check on every push.
+
+---
 
 - Please Do Visit Web site for more info [link](https://isinghabhishek-diseases-prediction-ml-model-mdps-public-pyigt8.streamlitapp.com/)
 
