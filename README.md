@@ -57,11 +57,11 @@ GitHub Actions runs `flake8` linting and `py_compile` syntax check on every push
 
 - Please Do Visit Web site for more info [link](https://isinghabhishek-diseases-prediction-ml-model-mdps-public-pyigt8.streamlitapp.com/)
 
-## Diabetic Prediction ML-Model
+### Diabetic Prediction ML-Model
 
 ![mdpDiabticuML](https://user-images.githubusercontent.com/91690267/190630547-59c8d763-09ee-4275-822e-d98c66e21a8a.jpg)
 
-## Heart Disease Prediction System 
+### Heart Disease Prediction System 
 
 ![HDS](https://user-images.githubusercontent.com/91690267/195996196-6123204a-b4da-4ef2-a099-8e5b3a9de280.jpg)
 
