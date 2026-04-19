@@ -54,6 +54,21 @@ pickle-mixin==1.0.2
 GitHub Actions runs `flake8` linting and `py_compile` syntax check on every push.
 
 ---
+<br />
+
+## 👨‍💻 Author
+
+**Abhishek Singh**
+
+[![GitHub](https://img.shields.io/badge/GitHub-isinghabhishek-181717?style=flat&logo=github)](https://github.com/isinghabhishek)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ while learning JavaScript, Python & Rust</sub>
+</div>
+
+---
 
 - Please Do Visit Web site for more info [link](https://isinghabhishek-diseases-prediction-ml-model-mdps-public-pyigt8.streamlitapp.com/)
 
@@ -65,4 +80,5 @@ GitHub Actions runs `flake8` linting and `py_compile` syntax check on every push
 
 ![HDS](https://user-images.githubusercontent.com/91690267/195996196-6123204a-b4da-4ef2-a099-8e5b3a9de280.jpg)
 
+---
 
